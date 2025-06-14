@@ -30,7 +30,7 @@ saadterraform/
 └── report.pdf
 
 
-##  Tech Stack
+## Tech Stack
 
 - **Infrastructure as Code:** Terraform  
 - **Cloud Services:** AWS EC2, ALB, RDS, Route 53  
