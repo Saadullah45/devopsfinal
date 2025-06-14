@@ -136,6 +136,7 @@ terraform plan
 
 # Apply infrastructure
 terraform apply
+```
 
 
 ## 🔌 Database Access via SSH Tunnel
@@ -144,6 +145,7 @@ terraform apply
 
 ```bash
 bash scripts/tunnelling.sh
+```
 
 ##  Use with DB Client
 
